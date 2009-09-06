@@ -1,8 +1,8 @@
-# New ports collection makefile for:    tdiary-devel
-# Date created:                 21 May 2003
-# Whom:                         Fumihiko Kimura <jfkimura@yahoo.co.jp>
+# New ports collection makefile for:	tdiary-devel
+# Date created:		2009-09-06
+# Whom:			TAKATSU Tomonari <tota@FreeBSD.org>
 #
-# $FreeBSD:$
+# $FreeBSD$
 #
 
 CATEGORIES=	japanese www ruby
